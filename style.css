@@ -1,10 +1,74 @@
 *{
-    background-color: aqua;
+    background: url(./assets/background_forest.avif);
      background-repeat: no-repeat;
      background-size: cover;
-  margin: 1%;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: bisque;
+     font-size: 2dvw;
   }
-  img{
+
+  h1{
+    font-family: fantasy;
+    font-size: 5dvw;
+    text-shadow: 2px 2px 2px black;
+    color: aliceblue;
+    text-align: center;
+    background-color: #000;
+
+  }
+
+  h2 {
+    font-family: fantasy;
+    font-size: 5dvw;
+    text-shadow: 2px 2px 2px black;
+    color: rosybrown;
+  }
+
+  #img0{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    border:2px solid black;
+  }
+
+  #img1{
+    width: 60%;
+    height: 60%;
+    border-radius: 5%;
+    margin: 4%;
+    float:left;
     
-      float:left;
+  }
+
+  #img2{
+    width: 60%;
+    height: 60%;
+    border-radius: 5%;
+    margin: 4%;
+    float:right;
+    
+  }
+
+  #img3{
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+    margin: 4%;
+    float:left;
+    
+  }
+
+  #img4{
+    width: 30%;
+    height: 20%;
+    border-radius: 5%;
+    margin: auto;
+    display: block;
+    
+  }
+
+  .text{
+    background-color: #567895;
   }
