@@ -1,15 +1,13 @@
-*{
+body {
     background: url(./assets/background_forest.avif);
-     background-repeat: no-repeat;
-     background-size: cover;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
      color: bisque;
-     font-size: 2dvw;
+     font-size: 1.5dvw;
   }
 
   h1{
     font-family: fantasy;
-    font-size: 5dvw;
+    font-size: 4dvw;
     text-shadow: 2px 2px 2px black;
     color: aliceblue;
     text-align: center;
@@ -19,14 +17,14 @@
 
   h2 {
     font-family: fantasy;
-    font-size: 5dvw;
+    font-size: 4dvw;
     text-shadow: 2px 2px 2px black;
     color: rosybrown;
   }
 
   #img0{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin: auto;
     display: block;
@@ -34,8 +32,8 @@
   }
 
   #img1{
-    width: 60%;
-    height: 60%;
+    width: 30%;
+    height: 30%;
     border-radius: 5%;
     margin: 4%;
     float:left;
@@ -43,8 +41,8 @@
   }
 
   #img2{
-    width: 60%;
-    height: 60%;
+    width: 30%;
+    height: 30%;
     border-radius: 5%;
     margin: 4%;
     float:right;
@@ -52,7 +50,7 @@
   }
 
   #img3{
-    width: 30%;
+    width: 20%;
     height: 30%;
     border-radius: 50%;
     margin: 4%;
@@ -61,7 +59,7 @@
   }
 
   #img4{
-    width: 30%;
+    width: 20%;
     height: 20%;
     border-radius: 5%;
     margin: auto;
@@ -70,5 +68,5 @@
   }
 
   .text{
-    background-color: #567895;
+    background-color: darkslategrey;
   }
