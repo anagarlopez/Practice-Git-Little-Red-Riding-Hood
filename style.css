@@ -3,6 +3,7 @@ body {
      font-family: Verdana, Geneva, Tahoma, sans-serif;
      color: bisque;
      font-size: 1.5dvw;
+     padding: 7%;
   }
 
   h1{
@@ -12,6 +13,7 @@ body {
     color: aliceblue;
     text-align: center;
     background-color: #000;
+    padding: 2%;
 
   }
 
@@ -64,9 +66,27 @@ body {
     border-radius: 5%;
     margin: auto;
     display: block;
-    
   }
+  #img6{
+    width: 20%;
+    height: 20%;
+    border-radius: 5%;
+    margin: auto;
+    display: block;
 
+  }
   .text{
     background-color: darkslategrey;
+    padding: 2%;
+    margin-top: 2%;
+  }
+
+  #fin {
+    margin-top: 3%;
+    text-align: center;
+    background-color: black;
+    font-size: 5vmax;
+    padding: 3%;
+    margin-left: 100px;
+    margin-right: 100px;
   }
